@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho com desenvolvimento FullStack.
 - 🌱 Estudando Arquitetura MVC em JavaScript e linguagem C.
 - 💬 Meu contatos: enthonystevie1000@gmail.com / (64) 99624-1389
-
+##
 
 <div align="center">
   <a href="https://github.com/Enthony2021">
@@ -18,8 +18,8 @@
   <img align="center" alt="Rafa-CSS" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
   
-
- 
+##
+##
   
 <div> 
   <a href="https://www.youtube.com/channel/UCXZNjZ79hRITP-EZbD1EpWQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
