@@ -1,7 +1,7 @@
 ### Olá, Sou o Enthony Stevie, Seja Bem-vindo ao meu repositório GitHub! 👋
 
 - 🔭 Atualmente me interesso por desenvolvimento FullStack.
-- 🌱 Estudando BackEnd Node.JS.
+- 🌱 Estudando BackEnd Node.JS e Java.
 - 💬 Meu contatos: enthonystevie1000@gmail.com / (64) 99624-1389
 ##
 
