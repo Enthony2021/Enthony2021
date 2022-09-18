@@ -16,6 +16,11 @@
   <img align="center" alt="Rafa-HTML" height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Rafa-CSS" height="70" width="100" src="https://www.svgrepo.com/show/354259/react.svg" />
+  <img align="center" alt="Rafa-CSS" height="70" width="100" src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" />
+  <img align="center" alt="Rafa-CSS" height="70" width="100" src="https://www.svgrepo.com/show/358711/git.svg" />
+  <img align="center" alt="Rafa-CSS" height="70" width="100" src="https://www.svgrepo.com/show/353735/firebase.svg" />
+  
 </div>
   
 ##
