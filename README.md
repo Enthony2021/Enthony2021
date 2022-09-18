@@ -1,8 +1,7 @@
 ### Hello!, My name is Enthony Stevie, welcome to my GitHub Profile! 👋
-
-- 🔭 Atualmente me interesso por desenvolvimento FullStack.
-- 🌱 Estudando BackEnd com Node.JS, TypeScript e Java.
-- 💬 Meu contatos: enthonystevie1000@gmail.com / (64) 99624-1389
+- Sou Desenvolvedor Web FullStack (Node.js, React.js)
+- Atualmente estudo: Superior em Desenvolvimento de Sistemas para a Web (Tecnólogo) pela UnP (Universidade Potiguar)
+- Meus contatos: enthonystevie1000@gmail.com / (64) 99624-1389
 ##
 
 <div align="center">
