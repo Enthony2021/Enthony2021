@@ -1,6 +1,6 @@
 ### Olá Senhores(as), Bem-vindo a meu repositório GitHub! Meu nome é Enthony Stevie... 👋
 - Sou Desenvolvedor Web FullStack (TypeScript, Node.js, React.js)
-- Meus contatos: enthonystevie1000@gmail.com
+- Meus contatos: enthonystevie1000@gmail.com | +55 (84) 98119-3526
 ##
   
 <div style="display: inline_block"><br>
