@@ -2,6 +2,12 @@
 - Sou Desenvolvedor Web FullStack (TypeScript, Node.js, React.js)
 - Meus contatos: enthonyoliveira96@gmail.com | +55 (84) 98119-3526
 ##
+
+<div align="center">
+  <a href="https://github.com/Enthony2021">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enthony2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enthony2021&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-CSS" height="70" width="100" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" />
