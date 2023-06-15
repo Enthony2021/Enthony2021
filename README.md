@@ -20,10 +20,7 @@
   <img align="center" alt="Rafa-CSS" height="70" width="100" src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" />
   <img align="center" alt="Rafa-CSS" height="70" width="100" src="https://www.svgrepo.com/show/358711/git.svg" />
   <img align="center" alt="Rafa-CSS" height="70" width="100" src="https://www.svgrepo.com/show/373845/mongo.svg" />
-  <img align="center" alt="Rafa-CSS" height="70" width="100" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />
-  <img align="center" alt="Rafa-CSS" height="70" width="100" src="https://www.svgrepo.com/show/353735/firebase.svg" />
-  <img align="center" alt="Rafa-CSS" height="70" width="100" src="https://www.svgrepo.com/show/349404/heroku.svg" />
-  
+  <img align="center" alt="Rafa-CSS" height="70" width="100" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />  
 </div>
   
 ##
