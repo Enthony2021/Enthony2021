@@ -3,11 +3,12 @@
 - Meus contatos: enthonyoliveira96@gmail.com | +55 (84) 98119-3526
 ##
 
-<div align="center">
+### :fire: My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Enthony2021&theme=dark&background=000000)](https://git.io/streak-stats)<br>
   <a href="https://github.com/Enthony2021">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enthony2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enthony2021&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enthony2021&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enthony2021&layout=compact&langs_count=7&theme=github_dark"/>
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-CSS" height="70" width="100" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" />
@@ -26,8 +27,7 @@
 ##
 
 
-### :fire: My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Enthony2021&theme=dark&background=000000)](https://git.io/streak-stats)<br>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Enthony2021&show_icons=true&include_all_commits=true&theme=github_dark)
 ##
   
