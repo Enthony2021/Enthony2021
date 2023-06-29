@@ -27,8 +27,8 @@
 
 
 ### :fire: My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=filipegallodev&theme=dark&background=000000)](https://git.io/streak-stats)<br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=filipegallodev&show_icons=true&include_all_commits=true&theme=github_dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Enthony2021&theme=dark&background=000000)](https://git.io/streak-stats)<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Enthony2021&show_icons=true&include_all_commits=true&theme=github_dark)
 ##
   
 <div> 
