@@ -1,6 +1,6 @@
 ### Olá Senhores(as), Bem-vindo a meu repositório GitHub! Meu nome é Enthony Stevie... 👋
 - Sou Desenvolvedor Web FullStack (TypeScript, Node.js, React.js)
-- Meus contatos: enthonyoliveira96@gmail.com | +55 (84) 98119-3526
+- Meus contatos: enthony1000-@hotmail.com | +55 (84) 98119-3526 |
 ##
 
 ### :fire: My Stats
@@ -27,8 +27,7 @@
 </div>
   
 <div> 
-  <a href="https://www.youtube.com/channel/UCXZNjZ79hRITP-EZbD1EpWQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "mailto:enthonystevie1000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/enthony-stevie" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:enthony1000-@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/enthony/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
