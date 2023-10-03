@@ -24,6 +24,8 @@
   <img align="center" alt="Rafa-CSS" height="70" width="100" src="https://www.svgrepo.com/show/358711/git.svg" />
   <img align="center" alt="Rafa-CSS" height="70" width="100" src="https://www.svgrepo.com/show/373845/mongo.svg" />
   <img align="center" alt="Rafa-CSS" height="70" width="100" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />
+  <img align="center" alt="Rafa-CSS" height="70" width="100" src="https://www.svgrepo.com/show/373427/angular.svg" />
+  <img align="center" alt="Rafa-CSS" height="70" width="100" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" />
 </div>
   
 <div> 
