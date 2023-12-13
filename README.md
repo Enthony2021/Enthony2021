@@ -7,7 +7,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Enthony2021&theme=dark&background=000000)](https://git.io/streak-stats)<br>
 <div style="display: block; align-items: center; width: 100%; height: auto">
   <a href="https://github.com/Enthony2021">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enthony2021&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enthony2021&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/><br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enthony2021&theme=github_dark&hide_langs_below=1&langs_count=10" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </div>
 <br><br>
