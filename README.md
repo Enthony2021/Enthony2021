@@ -8,10 +8,11 @@
 <div style="display: block; align-items: center; width: 100%; height: auto">
   <a href="https://github.com/Enthony2021">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enthony2021&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enthony2021&layout=compact&langs_count=7&theme=github_dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enthony2021&theme=github_dark&hide_langs_below=1&langs_count=10" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </div>
-<br>
-<br>
+<br><br>
+
+    
 <div style="display: block; align-items: center; width: 100%; height: auto;">
   <img align="center" alt="Rafa-CSS" height="70" width="100" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" />
   <img align="center" alt="Rafa-Js" height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,7 +28,22 @@
   <img align="center" alt="Rafa-CSS" height="70" width="100" src="https://www.svgrepo.com/show/373427/angular.svg" />
   <img align="center" alt="Rafa-CSS" height="70" width="100" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" />
 </div>
-<br>
+<br><br>
+
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=Enthony2021&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+<br><br>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Enthony2021}/count.svg" /></p> 
